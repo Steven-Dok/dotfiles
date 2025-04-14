@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = teussd@gmail.com
+	name = Steven Dokier
